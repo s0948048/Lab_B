@@ -16,6 +16,10 @@ function openLink(evt, linkName) {
 // Click on the first tablink on load
 document.getElementsByClassName("tablink")[0].click();
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 00ca16b (new)
 var modalElem = document.getElementById("tyModal");
         var spanElem = document.getElementsByClassName("tyClose")[0];
 
@@ -26,5 +30,8 @@ var modalElem = document.getElementById("tyModal");
         setTimeout(function () {
             modalElem.style.display = "block";
         }, 1000);
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5aaaadd (新增好康報報)
+=======
+>>>>>>> parent of 00ca16b (new)
